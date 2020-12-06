@@ -6,6 +6,5 @@ Add one line by first developer.
 Add one line by second developer.
 Add second line by first developer
 Add second line by second developer.
-
 hello00
 hello11
